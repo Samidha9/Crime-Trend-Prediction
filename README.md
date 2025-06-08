@@ -1,1 +1,1 @@
-https://crimepredictor.streamlit.app/
+https://crime-trend-prediction.streamlit.app/
